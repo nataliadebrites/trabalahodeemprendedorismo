@@ -1,8 +1,17 @@
 body {
-    background-color: #F7E3B2
+    background-color:
+        #FAC8D0
 }
 
-header {
+.cabecalho {
     background-color: aliceblue;
     color: #57342D;
+}
+
+.logo {
+    width: 100%;
+}
+
+section {
+    color: #461F06
 }
